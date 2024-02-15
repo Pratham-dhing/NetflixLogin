@@ -9,6 +9,7 @@ body{
     text-align: left;
 }
 #two{
+    margin-top: 1200px;
     color: white;
     text-align: center;
 }
@@ -30,7 +31,4 @@ select{
     background-color: white;
     font-size: larger;
     font-weight: 900;
-}
-#div02{
-  height: 100px;
 }
