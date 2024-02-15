@@ -1,0 +1,36 @@
+body{
+    background-color: #00000066;
+    background-size: cover;
+    filter: brightness(50%);
+}
+#one{
+    color: red;
+    font-weight: bold;
+    text-align: left;
+}
+#two{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+input{
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+}
+button{
+text-align: center;
+font-size: larger;
+font-weight: 900;
+}
+select{
+    background-color: white;
+    font-size: larger;
+    font-weight: 900;
+}
+#div02{
+  height: 100px;
+}
